@@ -1,0 +1,15 @@
+{
+ "broadcasters":[{"slug":"ptv","name":"Pakistan Television (PTV)","status":"fixture"}],
+ "people":[
+  {"slug":"example-writer","name":"Example Writer (test fixture)","role":"Writer","bio":"","status":"fixture","sources":[]}
+ ],
+ "dramas":[
+  {"id":"d-0001","slug":"waris","title":"Waris","alt_titles":[],"title_ur":"","year":1979,"broadcaster":"ptv","genre":["Family drama"],"language":"Urdu","cast":[],"writer":[],"director":[],"synopsis":"","viewing":[],"subtitles":"unknown","status":"fixture","sources":[],"last_checked":""},
+  {"id":"d-0002","slug":"dhoop-kinare","title":"Dhoop Kinare","alt_titles":[],"title_ur":"","year":1987,"broadcaster":"ptv","genre":["Romance"],"language":"Urdu","cast":[],"writer":[],"director":[],"synopsis":"","viewing":[],"subtitles":"unknown","status":"fixture","sources":[],"last_checked":""},
+  {"id":"d-0003","slug":"ankahi","title":"Ankahi","alt_titles":[],"title_ur":"","year":1982,"broadcaster":"ptv","genre":["Comedy-drama"],"language":"Urdu","cast":[],"writer":[],"director":[],"synopsis":"","viewing":[],"subtitles":"unknown","status":"fixture","sources":[],"last_checked":""}
+ ],
+ "articles":[
+  {"slug":"how-to-check-a-viewing-source-is-official","title":"How to check whether a viewing source is official","date":"2026-10-20","author":"Editorial team","status":"published","summary":"A practical checklist for telling an authorized upload from a pirated copy.","body":["A video being publicly visible does not mean it was uploaded with the rights-holder's permission. Before you rely on a link, run through the steps below.","Check who published it. Official broadcaster channels are usually verified by the platform and link back from the broadcaster's own website. Reuploads from anonymous channels, fan accounts, or channels with mixed unrelated content deserve suspicion.","Check the broadcaster's own site and social profiles for a link to the channel or service. If the broadcaster does not mention it, treat the source as unconfirmed.","Check regional availability. Many authorized services restrict playback by country, so a link that works in one place may not work in another.","Check for subtitles inside the player or the service's own listing rather than assuming they exist.","If you find a pirated copy listed on this site, report it through our copyright page and we will review it promptly."],
+  "sources":[]}
+ ]
+}
